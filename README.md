@@ -15,7 +15,7 @@
 [![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=Liquibase&logoColor=white&labelColor=101010)](https://es.wikipedia.org/wiki/SQL)
 [![DASH](https://img.shields.io/badge/DASH-0d1117?style=for-the-badge&logo=DASH&logoColor=white&labelColor=101010)](https://dash.plotly.com/)
 [![ScikitLearn](https://img.shields.io/badge/ScikitLearn-0d1117?style=for-the-badge&logo=ScikitLearn&logoColor=white&labelColor=101010)](https://scikit-learn.org/stable/)
-[![Repositorio](https://img.shields.io/badge/Repositorio-0d1117?style=for-the-badge&logo=GitHub&logoColor=white&labelColor=101010)](https://github.com/henrycerpam?tab=repositories)
+[![Repositorio](https://img.shields.io/badge/Repositorio-0d1117?style=for-the-badge&logo=GitHub&logoColor=white&labelColor=101010)](https://github.com/henrycerpa?tab=repositories)
 
 
 <a href="https://github.com/henrycerpa/henrycerpa">
