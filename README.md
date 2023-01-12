@@ -18,11 +18,11 @@
 [![Repositorio](https://img.shields.io/badge/Repositorio-0d1117?style=for-the-badge&logo=GitHub&logoColor=white&labelColor=101010)](https://github.com/henrycerpam?tab=repositories)
 
 
-<a href="https://github.com/datahenrycom/datahenrycom">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=datahenrycom&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
+<a href="https://github.com/henrycerpa/henrycerpa">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrycerpa&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
 </a>
 
 ## 💼 Contact
 
-[![Linkedin](https://img.shields.io/badge/@datahenry-0d1117?style=for-the-badge&logo=Linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/datahenry)
-[![Linkedin](https://img.shields.io/badge/www.datahenry.com-0d1117?style=for-the-badge&logo=chrome&logoColor=white&labelColor=101010)](https://www.datahenry.com)
+[![Linkedin](https://img.shields.io/badge/@henrycerpa-0d1117?style=for-the-badge&logo=Linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/henrycerpa)
+[![Linkedin](https://img.shields.io/badge/www.datahenry.com.co-0d1117?style=for-the-badge&logo=chrome&logoColor=white&labelColor=101010)](https://www.datahenry.com.co)
