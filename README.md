@@ -18,9 +18,7 @@
 [![Repositorio](https://img.shields.io/badge/Repositorio-0d1117?style=for-the-badge&logo=GitHub&logoColor=white&labelColor=101010)](https://github.com/henrycerpa?tab=repositories)
 
 
-<a href="https://github.com/henrycerpa/henrycerpa">
-  [![Henry Cerpa stats](https://github-readme-stats.vercel.app/api/wakatime?username=henrycerpa&layout=compact)](https://github.com/henrycerpa)
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henrycerpa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 💼 Contact
 
