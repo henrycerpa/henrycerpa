@@ -1,5 +1,5 @@
 
-# Bito (Henry Cerpa Márquez)
+# Henry Cerpa Márquez
 ### 👨🏽‍💼 Data Science Consultant
 
 - Graduated as Industrial Engineer. 
