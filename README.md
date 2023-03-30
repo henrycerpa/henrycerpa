@@ -1,5 +1,5 @@
 
-# DATA BITO (Henry Cerpa Marquez)
+# DATA BITO
 ### 👨🏽‍💼 Data Specialist
 
 - Graduated as Industrial Engineer. 
