@@ -1,15 +1,14 @@
 
 # DATA BITO
-#### Henry Cerpa Marquez, a data specialist 👨🏽‍💼 excited to apply my skills and knowledge to contribute your team with my experience in solving real-world problems. 
+#### Henry Cerpa Marquez, a data specialist 👨🏽‍💼 passionate in artificial intelligence developments
 
 Specifically, having expertise in:
-- Experience in data wrangling, statistical analysis and reporting to the table
+- Data wrangling, statistical analysis and reporting to the table
 - Programming with Python and its popular libraries, including Numpy, Pandas, Matplotlib, Seaborn, Scikit-Learn and Plotly
 - Working with SQL databases
-- Proficiency in data visualization tools such as Tableau, Power BI and Dash
+- Data visualization tools such as Tableau, Power BI and Dash
 - Building supervised, unsupervised, and reinforcement learning models
 - Strong background in mathematics and statistics
-- Passionate in artificial intelligence developments drives my desire to stay current with industry trends and advancements.
 
 ## 🛠️ Skills
 
