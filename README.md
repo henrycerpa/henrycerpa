@@ -1,13 +1,15 @@
 
 # DATA BITO
-### 👨🏽‍💼 Data Specialist
+#### Henry Cerpa Marquez, a data specialist 👨🏽‍💼 excited to apply my skills and knowledge to contribute your team with my experience in solving real-world problems. 
 
-- Graduated as Industrial Engineer. 
-- Dash framework expert. 
-- Job experience of 6 years in data wrangling, statistical analysis and visualization. 
-- Knowledge in numerical simulation with different techniques using python libraries. 
-- Familiarity with Tableu, Power BI, SQL and agile methodologies like Scrum. 
-- Passionate about artificial intelligence developments
+Specifically, having expertise in:
+🔹Experience in data wrangling, statistical analysis and reporting to the table
+🔹Programming with Python and its popular libraries, including Numpy, Pandas, Matplotlib, Seaborn, Scikit-Learn and Plotly
+🔹Working with SQL databases
+🔹Proficiency in data visualization tools such as Tableau, Power BI and Dash
+🔹Building supervised, unsupervised, and reinforcement learning models
+🔹Strong background in mathematics and statistics
+🔹Passionate in artificial intelligence developments drives my desire to stay current with industry trends and advancements.
 
 ## 🛠️ Skills
 
