@@ -1,6 +1,6 @@
 
-# Henry Cerpa Márquez
-### 👨🏽‍💼 Data Science Consultant
+# DATA BITO
+### 👨🏽‍💼 Data Specialist
 
 - Graduated as Industrial Engineer. 
 - Dash framework expert. 
@@ -15,12 +15,12 @@
 [![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=Liquibase&logoColor=white&labelColor=101010)](https://es.wikipedia.org/wiki/SQL)
 [![DASH](https://img.shields.io/badge/DASH-0d1117?style=for-the-badge&logo=DASH&logoColor=white&labelColor=101010)](https://dash.plotly.com/)
 [![ScikitLearn](https://img.shields.io/badge/ScikitLearn-0d1117?style=for-the-badge&logo=ScikitLearn&logoColor=white&labelColor=101010)](https://scikit-learn.org/stable/)
-[![Repositorio](https://img.shields.io/badge/Repositorio-0d1117?style=for-the-badge&logo=GitHub&logoColor=white&labelColor=101010)](https://github.com/bitoconsultant?tab=repositories)
+[![Repositorio](https://img.shields.io/badge/Repositorio-0d1117?style=for-the-badge&logo=GitHub&logoColor=white&labelColor=101010)](https://github.com/thedatabito?tab=repositories)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bitoconsultant&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thedatabito&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 💼 Contact
 
-[![Linkedin](https://img.shields.io/badge/@bitoconsultant-0d1117?style=for-the-badge&logo=Linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/bitoconsultant)
-[![Linkedin](https://img.shields.io/badge/www.bitoconsultant.com-0d1117?style=for-the-badge&logo=chrome&logoColor=white&labelColor=101010)](https://www.bitoconsultant.com)
+[![Linkedin](https://img.shields.io/badge/@thedatabito-0d1117?style=for-the-badge&logo=Linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/thedatabito)
+[![Linkedin](https://img.shields.io/badge/www.thedatabito.com-0d1117?style=for-the-badge&logo=chrome&logoColor=white&labelColor=101010)](https://www.thedatabito.com)
