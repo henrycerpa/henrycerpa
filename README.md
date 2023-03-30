@@ -1,6 +1,6 @@
 
 # DATA BITO (Henry Cerpa Marquez)
-## @TheDataBito
+### @TheDataBito
 ### 👨🏽‍💼 Data Specialist
 
 - Graduated as Industrial Engineer. 
