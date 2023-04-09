@@ -1,6 +1,6 @@
 
-# DATA BITO
-#### Henry Cerpa Marquez, a data specialist 👨🏽‍💼 passionate in artificial intelligence developments
+# Henry Cerpa Marquez
+#### A person 👨🏽‍💼 passionate in artificial intelligence developments
 
 Specifically, having expertise in:
 - Data wrangling, statistical analysis and reporting to the table
