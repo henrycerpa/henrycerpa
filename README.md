@@ -1,14 +1,14 @@
 
 # Henry Cerpa Marquez
-#### A person 👨🏽‍💼 passionate in artificial intelligence developments
 
-Specifically, having expertise in:
+Having expertise in:
 - Data wrangling, statistical analysis and reporting to the table
 - Programming with Python and its popular libraries including Plotly
 - Working with SQL databases
 - Data visualization tools such as Tableau, Power BI and Dash
 - Building supervised, unsupervised, and reinforcement learning models
 - Strong background in mathematics and statistics
+- Passionate in artificial intelligence developments
 
 ## 🛠️ Skills
 
