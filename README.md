@@ -24,4 +24,4 @@ Having expertise in:
 ## 💼 Contact
 
 [![Linkedin](https://img.shields.io/badge/@henrycerpa-0d1117?style=for-the-badge&logo=Linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/henry-cerpa)
-[![Linkedin](https://img.shields.io/badge/www.henrycerpamarquez.pythonanywhere.com-0d1117?style=for-the-badge&logo=chrome&logoColor=white&labelColor=101010)](http://henrycerpamarquez.pythonanywhere.com/)
+[![Linkedin](https://img.shields.io/badge/henrycerpamarquez.pythonanywhere.com-0d1117?style=for-the-badge&logo=chrome&logoColor=white&labelColor=101010)](http://henrycerpamarquez.pythonanywhere.com/)
