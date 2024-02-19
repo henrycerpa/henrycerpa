@@ -1,5 +1,5 @@
 
-# Bito (Henry Cerpa Marquez)
+# Henry Cerpa Marquez
 
 Having expertise in:
 - Data wrangling, statistical analysis and reporting to the table
@@ -19,9 +19,9 @@ Having expertise in:
 [![Repositorio](https://img.shields.io/badge/Repositorio-0d1117?style=for-the-badge&logo=GitHub&logoColor=white&labelColor=101010)](https://github.com/henrycerpa?tab=repositories)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bitodatos&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henrycerpa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 💼 Contact
 
-[![Linkedin](https://img.shields.io/badge/@bitodatos-0d1117?style=for-the-badge&logo=Linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/bitodatos)
-[![Linkedin](https://img.shields.io/badge/henrycerpamarquez.pythonanywhere.com-0d1117?style=for-the-badge&logo=chrome&logoColor=white&labelColor=101010)](http://henrycerpamarquez.pythonanywhere.com/)
+[![Linkedin](https://img.shields.io/badge/@bhenrycerpa-0d1117?style=for-the-badge&logo=Linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/henrycerpa)
+[![Linkedin](https://img.shields.io/badge/henrycerpamarquez.pythonanywhere.com-0d1117?style=for-the-badge&logo=chrome&logoColor=white&labelColor=101010)](http://henrycerpa.pythonanywhere.com/)
